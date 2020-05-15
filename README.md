@@ -10,3 +10,5 @@
 ## 脚本
 > ### [python](./resource/py/python.md)
 
+## icons
+> ### [icons](./resource/icons/icons.md)
