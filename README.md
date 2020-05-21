@@ -2,7 +2,7 @@
  * @Date        : 2020-05-07 18:42:27
  * @LastEditors : anlzou
  * @Github      : https://github.com/anlzou
- * @LastEditTime: 2020-05-21 22:55:40
+ * @LastEditTime: 2020-05-21 23:00:42
  * @FilePath    : \blog\README.md
  * @Describe    : 
 --> 
@@ -22,7 +22,7 @@
 > ### [icons](./resource/icons/icons.md)
 
 ## api
-- > ### [java](./resource/api/java/Java.md)
+>- ### [java](./resource/api/java/Java.md)
 
 ## ui
-- > ### [Android UI](./resource/ui/ui.md)
+>- ### [Android UI](./resource/ui/ui.md)
