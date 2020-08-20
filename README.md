@@ -6,9 +6,13 @@
  * @FilePath    : \blog\README.md
  * @Describe    : 
 --> 
-# blog
+# blog（待整理）
 
 使用过的好用的仓库。
+
+## List
+
+> [list](./resource/anlzou-list/list.md)
 
 ## 包/框架
 > ### [css](./resource/css/css.md)
